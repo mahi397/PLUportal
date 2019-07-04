@@ -1,0 +1,6 @@
+1. serve dummy JSON from server.js to frontend          DONE
+2. it should be served into a table at frontend            A2.
+3. connect the express backend to the react frontend       A1. TODO - link on GitHub
+4. QUERY the table - ???
+5. xls/csv to JSON - npm pkg                               A3.
+6. Beautify!                                               A4.

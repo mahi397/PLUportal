@@ -1,0 +1,38 @@
+[
+    {
+      "APSNumber": "1234abcd",
+      "CustomerCIN": "1029384756",
+      "Flag": "TRUE",
+      "BotTimestamp": "4/30/2019 11:22:33"
+    },
+    {
+      "APSNumber": "2345bcde",
+      "CustomerCIN": "5647382910",
+      "Flag": "TRUE",
+      "BotTimestamp": "5/24/2019 22:33:44"
+    },
+    {
+      "APSNumber": "2345bcde",
+      "CustomerCIN": "5647382910",
+      "Flag": "FALSE",
+      "BotTimestamp": "2/3/2019 6:34:32"
+    },
+    {
+      "APSNumber": "3456cdef",
+      "CustomerCIN": "1920374855",
+      "Flag": "TRUE",
+      "BotTimestamp": "1/23/2019 12:13:14"
+    },
+    {
+      "APSNumber": "4567defg",
+      "CustomerCIN": "0002736454",
+      "Flag": "TRUE",
+      "BotTimestamp": "2/2/2019 21:34:45"
+    },
+    {
+      "APSNumber": "4567defg",
+      "CustomerCIN": "0002736454",
+      "Flag": "TRUE",
+      "BotTimestamp": "3/4/2019 23:03:40"
+    }
+  ]
